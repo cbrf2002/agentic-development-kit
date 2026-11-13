@@ -1,0 +1,1 @@
+case_id,target,objective,environment,source_revision,build_id,time_utc,tool,tool_version,identity_alias,expected_result,observed_result,outcome,evidence_coverage,evidence_reference,finding_ids,remaining_work,scope_disposition

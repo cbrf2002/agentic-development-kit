@@ -1,0 +1,13 @@
+{
+  "project": "[PROJECT]",
+  "authority": "[WRITTEN AUTHORIZATION]",
+  "targets": [],
+  "allowed_actions": [],
+  "excluded_actions": [],
+  "request_limit_per_minute": null,
+  "max_concurrency": null,
+  "testing_window": null,
+  "stop_conditions": [],
+  "automatic_remediation": false,
+  "evidence_storage": "[RESTRICTED LOCATION]"
+}

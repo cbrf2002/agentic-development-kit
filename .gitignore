@@ -1,0 +1,21 @@
+# Restricted or generated assessment materials
+private/
+evidence/
+raw/
+runs/
+credentials/
+keys/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.sarif
+reports/
+outputs/
+__pycache__/
+*.pyc
+node_modules/
+.venv/
